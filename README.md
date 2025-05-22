@@ -62,9 +62,3 @@ For enhanced security, especially if you have two-factor authentication (2FA) en
 ## 📝 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-* * *
-
-## 🙌 Acknowledgments
-
-Inspired by the need to automate email sending tasks using Python's standard libraries.
