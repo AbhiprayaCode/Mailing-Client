@@ -1,0 +1,6 @@
+Hello World!
+
+This is an email sent with python for educational purposes only!
+
+regards,
+Creator
