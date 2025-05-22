@@ -16,11 +16,8 @@ A simple Python script to send emails with attachments using Gmail's SMTP server
 ## 🛠️ Prerequisites
 
 *    Python 3.x
-*     
 *    A Gmail account
-*     
-*    An application-specific password (if 2FA is enabled)
-*     
+*    An application-specific password (if 2FA is enabled)   
 
 * * *
 
